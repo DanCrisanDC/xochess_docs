@@ -4,7 +4,7 @@ This repository contains the legal documentation for the XO Chess mobile game.
 
 ## 📱 About XO Chess
 
-XO Chess is a strategic chess-like game with X and O pieces, developed by Phystick.
+XO Chess is a strategic 4x4 chess variant (4-in-a-row chess) developed by Phystick.
 
 ## 📋 Contents
 
@@ -19,11 +19,11 @@ XO Chess is a strategic chess-like game with X and O pieces, developed by Physti
 
 ## 📞 Contact
 
-For questions about these policies, please contact: dan.crisan.dc@gmail.com
+For questions about these policies, please contact: phystick.dc@gmail.com
 
 ## 📱 Download XO Chess
 
-Available on Google Play Store (coming soon)
+Available on Google Play Store
 
 ---
-© 2025 Phystick. All rights reserved.
+© 2026 Phystick. All rights reserved.
